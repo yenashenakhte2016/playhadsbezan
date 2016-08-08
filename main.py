@@ -22,7 +22,7 @@ import game as g
 import tokens as t
 
 #TOKEN do bot no telegram
-229302346:AAGye267H8H2tdrUdT9ZeMT3THWJ32BNhW4 = t.real_tk
+TOKEN = t.real_tk
 
 #URL base para funcionamento do sistema de Webhook
 BASE_URL = 'https://api.telegram.org/bot' + 229302346:AAGye267H8H2tdrUdT9ZeMT3THWJ32BNhW4 + '/'
