@@ -25,7 +25,7 @@ import tokens as t
 TOKEN = t.real_tk
 
 #URL base para funcionamento do sistema de Webhook
-BASE_URL = 'https://api.telegram.org/bot'229302346:AAGye267H8H2tdrUdT9ZeMT3THWJ32BNhW4'/'
+BASE_URL = 'https://api.telegram.org/bot229302346:AAGye267H8H2tdrUdT9ZeMT3THWJ32BNhW4/'
 
 #Versão atual
 VERSION = '1.5'
